@@ -1,5 +1,7 @@
 # city
-This is my first repository about the best city.
+
+This is my premier repository dedicated to the finest city. 
+
 
  
 
